@@ -1,0 +1,11 @@
+C:\Users\tudor\Documents\a IX-a F\Joc\T-Rex Endless Runner\bin\Debug\T-Rex Endless Runner.exe.config
+C:\Users\tudor\Documents\a IX-a F\Joc\T-Rex Endless Runner\bin\Debug\T-Rex Endless Runner.exe
+C:\Users\tudor\Documents\a IX-a F\Joc\T-Rex Endless Runner\bin\Debug\T-Rex Endless Runner.pdb
+C:\Users\tudor\Documents\a IX-a F\Joc\T-Rex Endless Runner\obj\Debug\T-Rex Endless Runner.csproj.AssemblyReference.cache
+C:\Users\tudor\Documents\a IX-a F\Joc\T-Rex Endless Runner\obj\Debug\T-Rex Endless Runner.csproj.SuggestedBindingRedirects.cache
+C:\Users\tudor\Documents\a IX-a F\Joc\T-Rex Endless Runner\obj\Debug\T_Rex_Endless_Runner.Properties.Resources.resources
+C:\Users\tudor\Documents\a IX-a F\Joc\T-Rex Endless Runner\obj\Debug\T-Rex Endless Runner.csproj.GenerateResource.cache
+C:\Users\tudor\Documents\a IX-a F\Joc\T-Rex Endless Runner\obj\Debug\T-Rex Endless Runner.csproj.CoreCompileInputs.cache
+C:\Users\tudor\Documents\a IX-a F\Joc\T-Rex Endless Runner\obj\Debug\T-Rex Endless Runner.exe
+C:\Users\tudor\Documents\a IX-a F\Joc\T-Rex Endless Runner\obj\Debug\T-Rex Endless Runner.pdb
+C:\Users\tudor\Documents\a IX-a F\Joc\T-Rex Endless Runner\obj\Debug\T_Rex_Endless_Runner.TRexMainClass.resources
